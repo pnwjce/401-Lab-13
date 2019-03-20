@@ -3,20 +3,21 @@
 
 ##  Bearer Authorization
 
-### Jessica
+### Jessica Elliott
 
 ### Links and Resources
 * [repo](https://github.com/pnwjce/401-Lab-13)
-* [travis](https://www.travis-ci.com/)
+* [travis](https://www.travis-ci.com/pnwjce/401-Lab-13)
 
 ### Modules
-#### `transform.js`
+#### ``
+
+
 ##### Exported Values and Methods
 
-###### `transformGreyscale(bitmap)`
-Takes in a bitmap object and uses it's color array to make alterations to the bitmap's buffer. It then calls a rewrite function to write over the original buffer with the new color array. 
+###### ``
 
-###### `bar(array) -> array`
+###### ``
 Usage Notes or examples
 
 ### Setup
